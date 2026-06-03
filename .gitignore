@@ -1,0 +1,13 @@
+# Ignore all executable files globally
+*.exe
+
+# Optional: Ignore specific OS/compiler generated executables with no extension (like on Linux/macOS)
+# If you name your output executable 'snake', uncomment the line below:
+# /snake
+
+# Ignore building and object directories
+# (Useful if you compile using Make or CMake)
+*.o
+*.obj
+*.out
+bin/
